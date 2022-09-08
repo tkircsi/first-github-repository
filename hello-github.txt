@@ -4,4 +4,9 @@ What about this text file?
 
 Edit on remote origin.
 
+
 Modify on local branch.
+
+Modify on remote origin branch.
+
+Accept bot modification.
